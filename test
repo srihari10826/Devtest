@@ -1,0 +1,18 @@
+$ git init 
+$ git branch dev 
+$ git checkout dev
+$ git checkout dev
+$ git fetch
+$ git pull
+$ git stash
+$ git stash list 
+$ git stash pop
+
+$mkdir a1
+$CD a1
+$PWD
+$git status
+$vi initial text
+$git add <initial.txt>
+$git commit -m "commit"
+$git log
